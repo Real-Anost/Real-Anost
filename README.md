@@ -1,9 +1,9 @@
 ## Você encontrou meu perfil! Seja Bem vindo!!✨</br>
   🧠 Estudante do curso Técnico de Informática da Etec André Birs</br>
   🟠 Html </br>
-  🟣 CAss</br>
+  🟣 Css</br>
+  🟡 JavaScript</br>
   💻 Front-end Developer</br>
-  👥 Posto meu progresso no [Instagram](roblox.com) </br>
 
 
   
