@@ -3,7 +3,9 @@
   🟠 Html </br>
   🟣 Css</br>
   🟡 JavaScript</br>
-  💻 Front-end Developer</br>
+  ⚫ Php</br>
+  🐬 MySQL</br>
+  💻 Full stack Developer</br>
 
 
   
