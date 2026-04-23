@@ -1,5 +1,5 @@
 ## Você encontrou meu perfil! Seja Bem vindo!!✨</br>
-  🧠 Estudante do curso Técnico de Informática da Etec André Birs</br>
+  🧠 Estudante do curso Técnico de Informática da Etec Adolpho Berezin</br>
   🟠 Html </br>
   🟣 Css</br>
   🟡 JavaScript</br>
